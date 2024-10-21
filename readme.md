@@ -1,1 +1,3 @@
-This repository is created to practice devops concepts
+# third-repo
+Created for practice
+This repository is for practicing Git commands
